@@ -1,4 +1,4 @@
 qrcode
 ======
 
-android 二维码扫瞄工具
+android 二维码扫描工具
